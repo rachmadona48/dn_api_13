@@ -45,4 +45,6 @@
     'demo': [
         'demo/demo.xml',
     ],
+    'license': 'OPL-1',
+    'application': True,
 }
